@@ -1,1 +1,1 @@
-# Moeez-Database-project
+A simple PHP and MySQL app to manage flight schedules. You can add, view, edit, and delete flight records. The project has five files: index.php, create.php, update.php, delete.php, and db.php. Bootstrap 5 is used for basic styling. To run it, set up XAMPP or WAMP, create a database called airport_db, import the airport_db.sql file, and open index.php in your browser. Great for beginners learning CRUD operations.
